@@ -64,3 +64,11 @@ To run this project locally, follow these steps:
 - 📉 **Matplotlib & Seaborn**: For creating advanced data visualizations in Python.
 - 🖥️ **Tkinter**: For building the GUI application.
 
+## Output Examples
+
+- ![Image](https://github.com/user-attachments/assets/04002836-738c-4a41-8342-d9a1b82cb1ee)
+- ![Image](https://github.com/user-attachments/assets/f6795c43-bf5a-4d81-a5d2-cd77c7a0b39f)
+- ![Image](https://github.com/user-attachments/assets/d55681ff-97dd-4b8d-83ca-bc0009ab2105)
+- ![Image](https://github.com/user-attachments/assets/30e6be05-890a-41af-be48-82053224196c)
+
+
